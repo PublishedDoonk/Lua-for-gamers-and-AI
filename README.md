@@ -2,6 +2,7 @@
 
 This repository provides a comprehensive set of lesson plans designed to teach Lua, focusing on embedded systems (IoT), AI, and game development. Whether you're an absolute beginner with no prior programming experience or a seasoned developer looking to expand into Lua, these lessons offer a structured approach to learning. Starting from basic syntax and core concepts, the lessons progress to more advanced topics such as networking for IoT devices, controlling hardware with Lua, and scripting for game environments like Roblox. With practical exercises and real-world applications, this curriculum is ideal for anyone wanting to explore Lua's versatility in lightweight scripting and interactive programming.
 
+Each lesson folder should have a lesson.md file that contains the actual lesson as well as code examples you can (and should) run your self.
 
 ## Getting Started
 
