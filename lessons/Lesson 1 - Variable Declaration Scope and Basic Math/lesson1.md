@@ -1,4 +1,4 @@
-### **Lesson 1: Variable Declaration and Scope**
+### **Lesson 1: Variable Declaration, Scope, and Basic Math**
 
 In this lesson, you'll learn how to declare variables in Lua and understand the concept of **scope**, which determines where variables can be accessed within your code. You’ll also get introduced to the `nil` value, which represents the absence of a value.
 
@@ -112,10 +112,15 @@ print(greeting)  -- Should print "Hello"
 
 ---
 
-### **6. Summary**
+### **Basic Math**
 
-- Variables in Lua are dynamically typed, meaning you don’t need to specify a type.
-- You can declare variables as **global** or **local**. Use `local` for variables that should only be accessed in a specific block or function.
-- The special value `nil` represents the absence of a value. Uninitialized variables are automatically set to `nil`.
+Now that you can assign variables different values, you can do every programmer's favorite thing with them. MATH!
+The basic math operators you'll want to know for now are add (+), subtract (-), multiply (\*), and divide (/).
 
-This foundational knowledge is essential as you move forward with more complex Lua programming. Mastering variable scope and proper use of `local` will help you write cleaner, safer, and more efficient code!
+Below is an example that uses each kind of arithmetic operator:
+
+```Lua
+
+
+
+```
